@@ -1,5 +1,5 @@
 - Hi, my name is Evgeny Efimenko
-- I’m Researcher at the Institute of Applied physics RAS
+- I’m Researcher at the Institute of Applied physics RAS, I also have some working experience as a Software designer and Senior R&D Engineer 
 - My main interests are related to numerical simulation of laser-plasma interaction including ionization and creation of electron-positron plasma.
 I'm also interested in Machine Learning and Deep Learning, namely, Computer Vision
 - My favorite languages are C/C++ and Python, but I always try to learn something new
